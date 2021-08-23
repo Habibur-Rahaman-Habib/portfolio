@@ -1742,6 +1742,7 @@ html, body {
         margin: 0 auto;
         margin-bottom: 20px;
         transform: translate(0);
+        width:200px;
     }
     .footer-border {
         border-right: none;
