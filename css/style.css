@@ -559,6 +559,11 @@ html, body {
     width: 40px;
     height: 40px;
     border-radius: 50%;
+    transition: .3s;
+}
+
+.portfolio-imag .slick-dots li:hover button {
+    background: #30BBA8;
 }
 
 
